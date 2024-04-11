@@ -1,7 +1,7 @@
 # SimpleStorage
 Allows users to store and retrieve favorite numbers associated with names. It includes features such as storage, retrieval, mappings, dynamic arrays, and structs.
 
-# Features
+## Features
 Storage: Users can store their favorite number using the store function.  
 
 Retrieval: The stored favorite number can be retrieved using the retrieve function.  
@@ -18,7 +18,7 @@ Deployment: Deploy the contract on a compatible blockchain network such as Ether
 
 Interaction: Interact with the contract using compatible tools like Remix, Hardhat, Truffle, or Web3.js.
 
-
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
